@@ -1,2 +1,7 @@
-# demo-castagnino-inmobiliaria
-Demo web para Castagnino Inmobiliaria — diseñada por eterlab.
+# Castagnino Inmobiliaria
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
